@@ -2,7 +2,7 @@
 
 <h2> Hey! I'm Hitesh :) </h2>
 
-I lost access to my old account [HiteshSaai](https://github.com/Hiteshsaai), so I have created this new account with all the repo's from my old account :) 
+I lost access to my old account [HiteshSaai](https://github.com/Hiteshsaai), so I have created this new account with all the major repo's from my old account :) 
 
 <p align = 'right'>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
