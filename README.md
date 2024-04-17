@@ -10,10 +10,10 @@ I lost access to my old account [HiteshSaai](https://github.com/Hiteshsaai), so 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Data Scientist in Machine Learning at Verisk Analytics.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions, and quick hacks.
+- 💼 &nbsp; Working as a Senior Machine Learning Engineer at Expedia Group Inc.
 - 🎓 &nbsp; Completed Masters Degree, Major's in **Statistics & Machine Learing**.
-- 🌱 &nbsp; Passionate about Software Engineering & Machine Learning, have worked on several software pet projects and learning more about Machine Learning Product Developement, Systems Design and Computer Vision.
+- 🌱 &nbsp Am passionate about Software Engineering & Machine Learning, have worked on several software pet projects, and learning more about Machine Learning Product development, Systems Design, and Computer Vision.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
 
