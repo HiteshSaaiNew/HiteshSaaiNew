@@ -25,6 +25,14 @@ I lost access to my old account [HiteshSaai](https://github.com/Hiteshsaai), so 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)</br>
 <!--  ![R(Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
+- 🧠 &nbsp;
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+  ![vLLM](https://img.shields.io/badge/vllm-%2330A2FF.svg?style=for-the-badge&logo=vllm&logoColor=ffffff)
+  ![Weights and Biases](https://img.shields.io/badge/weights%20%26%20biases-%23FCBC32.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
   
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
